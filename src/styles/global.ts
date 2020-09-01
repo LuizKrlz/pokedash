@@ -28,8 +28,8 @@ export default createGlobalStyle`
     padding: 0 20px 50px;
     display: flex;
     flex-direction: column;
-    padding-top: 130px
   }
+
   button {
     cursor: pointer;
   }

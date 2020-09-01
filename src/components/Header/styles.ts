@@ -6,10 +6,7 @@ export const Container = styled.header`
   display: flex;
   align-items: center;
   padding: 18px 30px;
-  position: fixed;
-  width: 100%;
-  max-width: 1156px;
-  top: 0;
+  margin-bottom: 20px;
 `;
 
 export const Logo = styled.div`
